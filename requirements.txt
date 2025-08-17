@@ -1,2 +1,1 @@
-streamlit
-pandas
+XlsxWriter==3.2.0
